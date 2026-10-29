@@ -1,0 +1,12 @@
+qid,ticker,name
+21475039221,DENSO,Denso India Pvt Ltd
+21513068924,CINEMAXIN,Cinemax India Ltd
+21589724613,LTTS,L&T Technology Services Ltd
+21617889184,NAM-INDIA,Nippon Life India Asset Management Ltd
+55837397378,RELMEDIA,Reliance Mediaworks Ltd
+55837401230,FKONCO,Fresenius Kabi Oncology Ltd
+55837403717,CYIENT,Cyient Limited
+55837409805,STER,Sterlite Industries (India) Ltd
+55848927554,PIRGLASS,Piramal Glass Pvt Ltd
+55856116246,RBN,Reliance Broadcast Network Ltd
+236783369047,HEXT,Hexaware Technologies Ltd

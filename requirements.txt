@@ -1,0 +1,6 @@
+pandas>=2.1
+numpy>=1.26
+scipy>=1.13          # built for NumPy 2; an older SciPy next to numpy>=2 fails with "numpy.core.multiarray failed to import"
+statsmodels>=0.14.2  # same reason; supplies the MacKinnon p-values for the level test
+pyarrow>=14          # data/stock_ohlcv.parquet (the stock panel is too large for a comfortable CSV)
+plotly>=5.18         # interactive charts in the report (figs.py)

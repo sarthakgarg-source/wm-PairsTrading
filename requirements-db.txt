@@ -1,0 +1,3 @@
+# Only for db_probe.py / fetch_*.py
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
